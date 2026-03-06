@@ -22,7 +22,7 @@ Sou um desenvolvedor Front-end em formação baseado em **Santos, SP**. Atualmen
 ---
 
 ## 📊 Status de Desenvolvimento
-- 🔭 Atualmente trabalhando no meu **Portfólio Pessoal**.
+- 🔭 Atualmente trabalhando no meu [Portfólio Pessoal] (https://allanalmeidas.github.io/landing-page-portfolio/)
 - 🌱 Estudando lógica de programação avançada com **JavaScript**.
 - 💬 Pergunte-me sobre: HTML, CSS e UI/UX.
 
